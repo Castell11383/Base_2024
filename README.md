@@ -1,5 +1,8 @@
 # ESTRUCTURA MVC MINDEF V. 1.0 🚀
 
+![Uploading Imagen de WhatsApp 2025-07-15 a las 10.21.42_e4e7af7f.jpg…]()
+
+
 ¡Bienvenido al proyecto **ESTRUCTURA MVC MINDEF V. 1.0**!  
 Este documento te guiará a través de los requisitos y los pasos necesarios para configurar y poner en marcha el proyecto en tu entorno de desarrollo.
 
@@ -151,4 +154,3 @@ Actualiza los archivos con los datos reales de tu aplicación:
 
 ---
 
-¡Y listo! Ya tienes tu proyecto estructurado y funcionando en base a la arquitectura MVC. 😎
